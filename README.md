@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+<img src="https://user-images.githubusercontent.com/83803981/173092133-1bff2815-0dd8-435a-9dfc-73bf49d2507c.jpg" width="48">
 ![Screenshot_2022-06-10-20-16-26-486_com example otp_phone_auth](https://user-images.githubusercontent.com/83803981/173092133-1bff2815-0dd8-435a-9dfc-73bf49d2507c.jpg)
 ![Screenshot_2022-06-10-20-16-30-911_com example otp_phone_auth](https://user-images.githubusercontent.com/83803981/173092163-0cd22810-d0b2-4aa3-a149-25e37d08b65d.jpg)
 ![Screenshot_2022-06-10-20-16-36-345_com example otp_phone_auth](https://user-images.githubusercontent.com/83803981/173092224-af9f2894-d8a5-4dd2-9c00-f091edaad379.jpg)
